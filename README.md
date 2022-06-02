@@ -1,2 +1,2 @@
 # LibgraphicsExperiments
- Experiments with a simple C graphics library on Windows.
+ Experiments with a simple C graphics library by Zhejiang University on Windows.
